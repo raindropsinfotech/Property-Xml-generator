@@ -62,6 +62,18 @@
 ## Changelog
 - **v1.0.0**  
   - Initial release with export and import functionalities.
+ 
+- **v1.2.0**
+  - Added login into the laravel for getting the properties XML.
+  - Adding of the config file for changing dynamically.
+  - Added settings page to change the settings from the admin.
+  - Added code for getting the property type from the database
+ 
+- **v1.2.1**
+  - Added validation for the exporting properties into XML.
+ 
+- **v1.2.2**
+  - Added code for importing images also with the properties details.
 
 ---
 
