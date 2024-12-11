@@ -75,6 +75,8 @@
 - **v1.2.2**
   - Added code for importing images also with the properties details.
 
+- **v1.2.2 Bug Solving**
+  - Solved logout button not showing issue.
 ---
 
 ## Support
